@@ -13,7 +13,7 @@ function door() {
         		element.width = size+10;
     		} else {
 			clearInterval(interval);
-            		window.location.href = 'https://emeraldimpulse7.github.io/home/';		
+            		window.location.href = '/home';		
 		}
 	}
 }

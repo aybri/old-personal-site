@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "PerfectDOS";
+    src: url("perfect_dos_vga.ttf")
+}
+
+body {
+    background-color: black;
+}
+
+.console-font {
+    font-family: "PerfectDOS", monospace
+}
