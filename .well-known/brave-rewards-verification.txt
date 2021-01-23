@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: emeraldimpulse7.github.io
+Token: e8bb9ee53f0d77f21e7fc3033345087aaf7c081c10cc88db8f070c522e0c429c
